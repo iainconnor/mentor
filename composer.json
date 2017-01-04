@@ -1,0 +1,17 @@
+{
+    "name": "iainconnor/mentor",
+    "description": "Object validation by Annotations.",
+    "type": "library",
+    "require": {
+        "iainconnor/game-maker": "dev-master",
+        "symfony/validator": "^3.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iain Connor",
+            "email": "iainconnor@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
